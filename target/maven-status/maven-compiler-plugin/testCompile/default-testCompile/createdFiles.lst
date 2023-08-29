@@ -1,0 +1,10 @@
+com\pom\axis\Accounts_Page.class
+com\sdp\helperfiles\File_Reader_Manager.class
+com\pageobjectmanager\Page_Object_Manager.class
+com\pom\axis\Onboarding_Page.class
+com\selenium\axis_Utility_files\Utility_Files.class
+com\pom\axis\Push_Notification.class
+com\pom\axis\App_Logout.class
+com\runner\AxisBank_Runner.class
+com\sdp\helperfiles\Test_Data_Reader.class
+com\stepdefinition\AxisBank_Stepdef.class
